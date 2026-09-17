@@ -161,7 +161,7 @@ python -m http.server 8080
 
 歡迎針對資訊安全、區塊鏈、後量子密碼學研究、微服務架構或各類專案合作進行技術交流：
 
-- 👤 **作者**：Ping-Kun Hsu (許秉鈞)
+- 👤 **作者**：Ping-Kun Hsu (許鈵昆)
 - 🎓 **學術單位**：國立中興大學 資訊工程學系 博士班
 - 📧 **電子郵件**：[kelp11211@gmail.com](mailto:kelp11211@gmail.com)
 - 🐙 **GitHub**：[https://github.com/kelp11211](https://github.com/kelp11211)
