@@ -251,8 +251,8 @@ function initThemeToggle() {
   const mobileQuickThemeBtn = document.getElementById('mobile-hamburger-theme-btn');
   const mobileThemeText = document.getElementById('mobile-theme-text');
 
-  // Load saved theme or default to dark
-  const savedTheme = localStorage.getItem('pingkun_theme') || 'dark';
+  // Load saved theme or default to light
+  const savedTheme = localStorage.getItem('pingkun_theme_v2') || 'light';
 
   function updateUI(theme) {
     if (theme === 'light') {
@@ -288,6 +288,7 @@ function initThemeToggle() {
 
   function applyTheme(theme) {
     updateUI(theme);
+    localStorage.setItem('pingkun_theme_v2', theme);
     localStorage.setItem('pingkun_theme', theme);
   }
 
