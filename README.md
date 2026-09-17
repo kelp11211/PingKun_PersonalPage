@@ -23,7 +23,7 @@
 
 ## 📖 專案簡介 (Project Overview)
 
-本專案為 **Ping-Kun Hsu (許秉鈞)** 的個人學術簡歷、研究範疇與軟體專案展示平台。採用當代高階科技美學的 **毛玻璃質感（Glassmorphism）** 與 **賽博極簡風格（Cyber-Minimalism）** 進行設計，具備流暢的雙向互動元件、雙模深淺外觀切換機制與全裝置響應式支援。
+本專案為 **Ping-Kun Hsu (許鈵昆)** 的個人學術簡歷、研究範疇與軟體專案展示平台。採用當代高階科技美學的 **毛玻璃質感（Glassmorphism）** 與 **賽博極簡風格（Cyber-Minimalism）** 進行設計，具備流暢的雙向互動元件、雙模深淺外觀切換機制與全裝置響應式支援。
 
 整體架構堅持 **Zero-Dependency（零外部重型框架依賴）**，純粹依託標準 **HTML5**、**Tailwind CSS** 與 **原生現代 JavaScript (ES6+)** 驅動，具備極致輕量、首屏秒開、易於維護與相容各類靜態代管（如 GitHub Pages）之優勢。
 
